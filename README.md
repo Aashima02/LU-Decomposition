@@ -40,7 +40,8 @@ print(U)
 
 
 ## OUTPUT:
-![OUTPUT](./outputa.png)
+!![outputa](https://user-images.githubusercontent.com/93427086/147100547-ec28a78f-3a9d-4b8e-9619-2e91a33b942e.png)
+
 
 
 ## RESULT:
@@ -95,7 +96,7 @@ print(x)
 
 
 ## OUTPUT:
-![output](./outputb.png)
+![outputb](https://user-images.githubusercontent.com/93427086/147100590-1fb97dbd-f945-4495-81a4-78c8f9ddf799.png)
 
 
 ## RESULT:
