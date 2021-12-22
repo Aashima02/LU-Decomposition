@@ -40,7 +40,7 @@ print(U)
 
 
 ## OUTPUT:
-!![outputa](https://user-images.githubusercontent.com/93427086/147100547-ec28a78f-3a9d-4b8e-9619-2e91a33b942e.png)
+![outputa](https://user-images.githubusercontent.com/93427086/147100547-ec28a78f-3a9d-4b8e-9619-2e91a33b942e.png)
 
 
 
